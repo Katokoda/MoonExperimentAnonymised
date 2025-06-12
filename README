@@ -1,0 +1,5 @@
+This repo contains data for our experiment about teaching the Sun-Earth-Moon system.
+
+The data are anonymised and present in the data/preprocess/ folder.
+The data has then been analysed with the final_analysis.ipynb jupiter notebook.
+You can find all the information about the experiment in the FinalReport_GroupE_Moon.pdf
