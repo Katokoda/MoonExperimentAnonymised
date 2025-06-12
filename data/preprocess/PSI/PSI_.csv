@@ -1,0 +1,9 @@
+Id,Program,Program_other,Section,Age,Gender,Lived_region,PreTest_grade,PostTest_grade,PS time taken (in s)
+PSI1,Master,,Chemistry and Chemical Engineering,23,Masculine,Only or mainly north of the Tropic of Cancer,4.0,6.0,1200
+PSI2,Master,,Computer Science,23,Masculine,Only or mainly north of the Tropic of Cancer,2.0,2.0,766
+PSI3,Bachelor,,Mathematics,24,Masculine,Only or mainly north of the Tropic of Cancer,1.5,4.0,950
+PSI4,Master,,Mathematics,22,Feminine,Only or mainly north of the Tropic of Cancer,7.0,5.0,1200
+PSI5,Master,,Computer Science,26,Masculine,Only or mainly north of the Tropic of Cancer,1.0,4.0,1130
+PSI6,Master,,Computer Science,25,Masculine,None of the above / more complicated,1.5,5.0,1200
+PSI7,Master,,Computer Science,24,Feminine,Only or mainly north of the Tropic of Cancer,6.0,6.0,1199
+PSI8,Master,,Mathematics,22,Other,Only or mainly north of the Tropic of Cancer,4.0,4.0,874

@@ -1,0 +1,9 @@
+Id,Program,Program_other,Section,Age,Gender,Lived_region,PreTest_grade,PostTest_grade
+IPS1,Master,,Civil Engineering ,22,Masculine,Only or mainly north of the Tropic of Cancer,3.5,8.0
+IPS2,Master,,Microengineering,25,Feminine,Only or mainly north of the Tropic of Cancer,4.0,5.0
+IPS3,Other,Exchange Program - Masters level,Computer Science,21,Masculine,Only or mainly south of the Tropic of Capricorn,3.0,5.0
+IPS4,Master,,Communication Science,25,Feminine,Only or mainly north of the Tropic of Cancer,2.0,4.0
+IPS5,Master,,Communication Science,25,Masculine,Only or mainly north of the Tropic of Cancer,0.5,2.0
+IPS6,Master,,Computer Science,24,Masculine,Only or mainly north of the Tropic of Cancer,3.0,2.0
+IPS7,Master,,Computer Science,23,Masculine,Only or mainly north of the Tropic of Cancer,4.0,4.0
+IPS8,Master,,Mathematics,24,Masculine,Only or mainly north of the Tropic of Cancer,3.0,4.0
